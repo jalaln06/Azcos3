@@ -1,19 +1,5 @@
-#include <iostream>
-#include <fstream>
-#include <stack>
-#include <vector>
-#include <queue>
-#include <set>
-#include <cstdio>
-#include <cstdlib>
-#include <string>
-#include <unordered_map>
-#include <unordered_set>
-#include <climits>
-#include "solution.h"
-using namespace std;
-int main(int argc, char* argv[]){
 
+int main(int argc, char* argv[]){
     unordered_set<std::string> file;
     std::string line;
     file.clear();
